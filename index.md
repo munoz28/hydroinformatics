@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Hydroinformatics and Integrated Hydroclimate Lab Github Pages
 
 You can use the [editor on GitHub](https://github.com/munoz28/hydroinformatics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
