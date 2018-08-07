@@ -1,5 +1,5 @@
 ## Welcome to the Hydroinformatics and Integrated Hydroclimate Research Group
-"HIH aims to develop tools to improve the predictability of EHCEs, better understand the coupling mechanism between systems, and ultimately predict complex systems’ adaptive abilities"
+description: "HIH aims to develop tools to improve the predictability of EHCEs, better understand the coupling mechanism between systems, and ultimately predict complex systems’ adaptive abilities"
 
 You can use the [editor on GitHub](https://github.com/munoz28/hydroinformatics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
