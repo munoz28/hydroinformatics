@@ -1,13 +1,13 @@
-## Welcome to the Hydroinformatics and Integrated Hydroclimate Research Group
+# Welcome to the Hydroinformatics and Integrated Hydroclimate Research Group
 HIH aims to develop tools to improve the predictability of EHCEs, better understand the coupling mechanism between systems, and ultimately predict complex systems’ adaptive abilities
 
-# Work phylosophy
+## Work phylosophy
 HIH is buit upon the collaboration within the group and with other research groups. The tools below are examples of information technologies for improved FEWES management.
 
-## dataplugin
+### dataplugin
 https://github.com/hydromex/dataplugin
 
-## Hydrapet
+### Hydrapet
 https://nrt.unl.edu/products
 
 ### Architectures
