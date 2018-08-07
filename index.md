@@ -1,11 +1,19 @@
 ## Welcome to the Hydroinformatics and Integrated Hydroclimate Research Group
 HIH aims to develop tools to improve the predictability of EHCEs, better understand the coupling mechanism between systems, and ultimately predict complex systems’ adaptive abilities
 
-You can use the [editor on GitHub](https://github.com/munoz28/hydroinformatics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Work phylosophy
+HIH is buit upon the collaboration within the group and with other research groups. The tools below are examples of information technologies for improved FEWES management.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## dataplugin
+https://github.com/hydromex/dataplugin
 
-### Tools
+## Hydrapet
+https://nrt.unl.edu/products
+
+### Architectures
+
+### Integrative software
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
