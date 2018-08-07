@@ -1,11 +1,11 @@
 ## Welcome to the Hydroinformatics and Integrated Hydroclimate Research Group
-description: "HIH aims to develop tools to improve the predictability of EHCEs, better understand the coupling mechanism between systems, and ultimately predict complex systems’ adaptive abilities"
+HIH aims to develop tools to improve the predictability of EHCEs, better understand the coupling mechanism between systems, and ultimately predict complex systems’ adaptive abilities
 
 You can use the [editor on GitHub](https://github.com/munoz28/hydroinformatics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Tools
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -13,6 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+
 ## Header 2
 ### Header 3
 
